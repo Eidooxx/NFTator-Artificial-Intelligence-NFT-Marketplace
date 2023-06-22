@@ -18,5 +18,8 @@ NFTator users can create NFTs using AI by describing an art image (prompt) then 
   
 ## Live website
 https://nftatormarketplace.vercel.app/
+
+## Demo 
+You can find the demo [here](https://www.linkedin.com/feed/update/urn:li:activity:7077693525890318336/).
   
 
