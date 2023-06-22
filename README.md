@@ -8,6 +8,8 @@ NFTator users can create NFTs using AI by describing an art image (prompt) then 
 
 ## Promotional video
 
+
+
 ## Technology stack and tools
 * Solidity: Backend (Writing smart contracts).
 * React.js: Frontend framework.
