@@ -16,7 +16,7 @@ NFTator users can create NFTs using AI by describing an art image (prompt) then 
 * Hardhat: Development framework.
 * NFT.Storage: Storing NFTs metadata.
 * Hugging Face (stable diffusion 2 model): AI image generation.
-* 
+  
 ## Live website
 https://nftatormarketplace.vercel.app/
   
